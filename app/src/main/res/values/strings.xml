@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xiaomi Charging Animation</string>
+    <string name="xposed_desc">Fix the default charge animation for MIUI 14 and HyperOS 1.x. May compatible with older MIUI version.</string>
+    <string name="about_module">This module is made by YukiHookAPI. \nLearn more https://github.com/HighCapable/YuKiHookAPI</string>
+</resources>
